@@ -1,9 +1,6 @@
 # Forecasting_of_Smart_City_Traffic_DesirredySwethaPriya_USC_UCT
 The government wants to transform a city into a smart city. The vision is to convert it into a digital and intelligent city to improve the efficiency of services for the citizens. One of the problems faced by the government is traffic. The government wants to implement a robust traffic system for the city by being prepared for traffic peaks. They want to understand the traffic patterns of the four junctions of the city. Traffic patterns on holidays, as well as on various other occasions during the year, differ from normal working days. This is important to consider for your forecasting.
 
-Data Set Link : https://drive.google.com/file/d/1y61cDyuO9Zrp1fSchWcAmCxk0B6SMx7X/view?usp=sharing
-
-Depolyment Link: https://colab.research.google.com/drive/1hJ4Ji3DB0FBwaTDTzFSIewEwgMO3F__7?usp=sharing
 
 
 
@@ -162,12 +159,11 @@ Matplotlib	Across play the song, database relation and graphical plotting librar
 By looking above summary, they used TFPC, ODT, NN concepts which are complex to learn and understand, 
 Who is simplify this, we are using the very simple concepts like Decision Tree, Pandas, NumPy, Matplotlib, Sklearn. Accordingly, we will be developing a module such that according to the timestamp we will classifies, the number of vehicles passing through the junction point.
 
-4.1GitHub Link: https:https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT
+4.1GitHub Link: https://github.com/Swetha-Priya-Desireddy
 
 
-4.2Report submission (GitHub link): https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT/blob/main/README.md
+4.2Report submission (GitHub link): https://github.com/Swetha-Priya-Desireddy/upskill_campus
 
-4.3 Google Colab Link: https://colab.research.google.com/drive/1rv2gkaamOsAwmTNMIJkH_ywcG3J7NL49
 
 
 
